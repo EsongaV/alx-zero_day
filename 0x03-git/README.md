@@ -1,1 +1,1 @@
-New git triesx
+Git new exercise
